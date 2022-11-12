@@ -1,8 +1,8 @@
 # English Dictionary
 
 
-
-## Dicionario de Palavras em inglês.Encontre o significado das palavras e sua fonética
+### Descriçao
+ Dicionario de Palavras em inglês.Encontre o significado das palavras e sua fonética
 
 
 
