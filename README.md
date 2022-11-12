@@ -7,7 +7,11 @@
 
 
 ### Tecnologias usadas
-ReactJS, Javascript, HTML,CSS,Styled-Component,Axios
+ <ul>
+      <li>React</li>
+      
+      <li>React</li>
+    </ul>
 
 
 
