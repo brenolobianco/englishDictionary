@@ -1,11 +1,11 @@
 
 
-### `Engish dictionary`
+###`Engish dictionary
 
-### 'Descrição'
+###'Descrição
 Dicionario em ingles das 100 palavras mais comuns.
 
-### `TEcnologias Usadas`
+### TEcnologias Usadas
 Reactjs,JS,HTML,Css,APi,Styled-component
 
 ###'Instalação'
