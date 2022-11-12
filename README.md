@@ -2,23 +2,20 @@
 
 
 ### Descriçao
- Dicionario de Palavras em inglês.Encontre o significado das palavras e sua fonética
+ Dicionario de palavras em inglês.Encontre o significado das palavras e sua fonética.
 
 
 
 ### Tecnologias usadas
- <ul>
-      <li>React</li>
-      
-      <li>React</li>
-    </ul>
-
-
+-ReactJS
+-JS
+-HTML
+-CSS
+-Axios
+-API
+-Styled-Components
 
 ### Guia de instalação
-instale
-
-
 
 
 This is a challenge by Coodesh
