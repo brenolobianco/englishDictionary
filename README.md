@@ -7,13 +7,13 @@
 
 
 ### Tecnologias usadas
--ReactJS
--JS
--HTML
--CSS
--Axios
--API
--Styled-Components
+,ReactJS
+,JS
+,HTML
+,CSS
+,Axios
+,API
+,Styled-Components
 
 ### Guia de instalação
 
